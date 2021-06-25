@@ -1,1 +1,1 @@
-# api-messenger
+# messenger-api
